@@ -16,10 +16,18 @@ const eric = {
   challenge: "Create a new game demo every week"
 }
 ```
+
 <p align='center'>
-<img src="github-user-contribution.svg">
+  <span>My Games:</span>
+</p>
+<div align='center'>
+  <a href="https://ilidam.itch.io"><img src="https://static.itch.io/images/badge-color.svg" width="150"/></a>
+</div>
+
+<p align='center'>
+  <img src="github-user-contribution.svg">
 </p>
 <br>
 <p align='center'>
-<img align='center' src="https://spotify-now-playing-alpha-one.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"  />
+  <img align='center' src="https://spotify-now-playing-alpha-one.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"  />
 </p>
