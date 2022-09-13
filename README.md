@@ -3,4 +3,4 @@
 <br>📫 How to reach me: ericmarinhoda@gmail.com
 <br>😄 Pronouns: He/Him
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+<img src="https://ericmarinho.vercel.app/api/spotify" alt="naviscode spotify playing" width="350">
