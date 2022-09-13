@@ -11,7 +11,7 @@
 const eric = {
   pronouns: "he" | "him",
   code: [C#, Typescript, Javascript, HTML, CSS, Python, C, C++, Java, R],
-  tools: [Unity, React, Node.js, Express.js, Prisma, Bootstrap, Photshop, Miro],
+  tools: [Unity, React, Node, Express, Prisma, Bootstrap, Photshop, Miro],
   services: [Firebase, Netlify, Vercel],
   challenge: "Create a new game demo every week"
 }
