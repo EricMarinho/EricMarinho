@@ -20,8 +20,9 @@ const eric = {
 <p align='center'>
   <span>My Games:</span>
 </p>
+
 <div align='center'>
-  <a href="https://ilidam.itch.io"><img width="150"/></a>
+  <a href="https://ilidam.itch.io"><img src="badge-color.svg" width="150"/></a>
 </div>
 
 <p align='center'>
