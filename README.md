@@ -3,4 +3,4 @@
 <br>📫 How to reach me: ericmarinhoda@gmail.com
 <br>😄 Pronouns: He/Him
 
-[<img src="spotify-now-playing-murex-ten.vercel.app" alt="Spotify now playing" width="350"/>]()
+[![Spotify](https://spotify-now-playing-alpha-one.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/hlmj5gicn1xn70llpweyksrxq)
