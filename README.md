@@ -16,6 +16,6 @@ const eric = {
 ```
 <br>
 <br>
-<div>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://spotify-now-playing-alpha-one.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-</div>
+<p align="center">
+<img align='center' src="https://spotify-now-playing-alpha-one.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"  />
+</p>
