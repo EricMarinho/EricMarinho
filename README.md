@@ -3,4 +3,4 @@
 <br>📫 How to reach me: ericmarinhoda@gmail.com
 <br>😄 Pronouns: He/Him
 
-[<img src="spotify-now-playing-okrguhfrz-ericmarinho.vercel.app" alt="Spotify now playing" width="350"/>]()
+[<img src="spotify-now-playing-murex-ten.vercel.app" alt="Spotify now playing" width="350"/>]()
