@@ -16,9 +16,10 @@ const eric = {
   challenge: "Create a new game demo every week"
 }
 ```
+<p align='center'>
+<img src="github-user-contribution.svg">
+</p>
 <br>
-<br>
-<p align="center">
+<p align='center'>
 <img align='center' src="https://spotify-now-playing-alpha-one.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"  />
 </p>
-<img src="github-user-contribution.svg">
