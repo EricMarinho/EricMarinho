@@ -1,5 +1,5 @@
 ### Hi there 👋
 <img src="https://github.githubassets.com/images/mona-whisper.gif">
 - 🌱 I’m currently learning Web and GameDev ( Unity, React, Javascript, Typescript, HTML, Javascript, C# )
-- 📫 How to reach me: ericmarinhoda@gmail.com
+- <br>📫 How to reach me: ericmarinhoda@gmail.com
 - 😄 Pronouns: He/Him
