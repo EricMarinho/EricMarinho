@@ -3,4 +3,4 @@
 <br>📫 How to reach me: ericmarinhoda@gmail.com
 <br>😄 Pronouns: He/Him
 
-[![Spotify](https://spotify-now-playing-alpha-one.vercel.app/api/spotify)](https://open.spotify.com/user/hlmj5gicn1xn70llpweyksrxq)
+[![Spotify](https://ericmarinho.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/hlmj5gicn1xn70llpweyksrxq)
