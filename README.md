@@ -21,7 +21,7 @@ const eric = {
   <span>My Games:</span>
 </p>
 <div align='center'>
-  <a href="https://ilidam.itch.io"><img src="https://static.itch.io/images/badge-color.svg" width="150"/></a>
+  <a href="https://ilidam.itch.io"><img src="badge-color.svg" width="150"/></a>
 </div>
 
 <p align='center'>
