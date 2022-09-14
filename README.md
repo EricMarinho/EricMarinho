@@ -29,7 +29,7 @@ const eric = {
 <hr color="black">
 
 <p align='center'>
-  <img src="github-user-contribution.svg">
+  <img >
 </p>
 <br>
 <p align='center'>
