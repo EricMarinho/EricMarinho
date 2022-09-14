@@ -21,10 +21,12 @@ const eric = {
 <div align='center'>
   <img src="https://fortnitefontgenerator.com/img.php?fontsize=38&textcolor=ffa657&text=My+Games" width="120"/>
 <div/>
-a
+
 <div align='center'>
+  <h1>
   <a href="https://ilidam.itch.io"><img src="badge-color.svg" width="150"/></a>
-</div>
+  </h1>
+    </div>
 
 <hr color="black">
 
