@@ -18,7 +18,7 @@ const eric = {
 ```
 
 <p align='center'>
-  <span>My Games:</span>
+  <h2>My Games:</h2>
 </p>
 
 <div align='center'>
