@@ -1,6 +1,6 @@
 <div>
 <h1> Hi there, I'm Eric &nbsp <img src="https://giffiles.alphacoders.com/360/36088.gif" width="23"></h1></div>
-<img align='right' src="PepeMatrix.gif" width="100">
+<img align='right' src="PepeMatrixOrange.gif" width="100">
 <br>👨‍💻 I’m currently learning Web and GameDev (Unity, React, Javascript, Typescript, HTML, Javascript, C#)
 <br>📫 How to reach me: ericmarinhoda@gmail.com
 <br>
