@@ -19,7 +19,7 @@ const eric = {
  
 <hr>
 <div align='center'>
-  <img src="https://fortnitefontgenerator.com/img.php?fontsize=38&textcolor=9be9a8&text=My+Games" width="200"/>
+  <img src="https://fortnitefontgenerator.com/img.php?fontsize=38&textcolor=ffa657&text=My+Games" width="200"/>
 <div/>
 <br>
 <div align='center'>
