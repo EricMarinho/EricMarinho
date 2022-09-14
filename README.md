@@ -1,10 +1,14 @@
 <div>
 <h1> Hi there, I'm Eric &nbsp <img src="https://giffiles.alphacoders.com/360/36088.gif" width="23"></h1></div>
-<img align='right' src="PepeMatrixOrange.gif" width="100">
+<img align='right' src="PepeMatrixOrange.gif" width="135">
 <br>👨‍💻 I’m currently learning Web and GameDev (Unity, React, Javascript, Typescript, HTML, Javascript, C#)
 <br>📫 How to reach me: ericmarinhoda@gmail.com
 <br>
 <br>
+<p>
+  <a href="https://www.linkedin.com/in/eric-marinho/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-696982.svg?style=for-the-badge&logo=linkedin&logoColor=ffa657" style="max-width: 100%;"></a>
+  <a href="https://www.instagram.com/ilidammadz/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/instagram-806982.svg?style=for-the-badge&logo=instagram&logoColor=ffa657" style="max-width: 100%;"></a>
+</p>
 <br>
 
 ```javascript
