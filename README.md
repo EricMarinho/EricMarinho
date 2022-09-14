@@ -16,14 +16,17 @@ const eric = {
   challenge: "Create a new game demo every week"
 }
 ```
-
-<p align='center'>
-  <h2>My Games:</h2>
-</p>
+ 
+<hr>
+<div align='center'>
+  <img src="https://fortnitefontgenerator.com/img.php?fontsize=38&textcolor=ffa657&text=My+Games" width="120"/>
+<div/>
 
 <div align='center'>
   <a href="https://ilidam.itch.io"><img src="badge-color.svg" width="150"/></a>
 </div>
+
+<hr color="black">
 
 <p align='center'>
   <img src="github-user-contribution.svg">
