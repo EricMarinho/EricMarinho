@@ -33,5 +33,5 @@ const eric = {
 </p>
 <br>
 <p align='center'>
-  <img align='center' src="https://spotify-now-playing-alpha-one.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"  />
+  <img align='center' src="https://spotify-now-playing-alpha-one.vercel.app/api/spotify/" alt="Spotify Now Playing" width="350"  />
 </p>
