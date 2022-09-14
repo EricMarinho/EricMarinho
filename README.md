@@ -6,7 +6,7 @@
 <br>
 <br>
 <br>
-a
+
 ```javascript
 const eric = {
   pronouns: "he" | "him",
@@ -23,7 +23,7 @@ const eric = {
 <div/>
 <br>
 <div align='center'>
-  <a href="https://ilidam.itch.io"><img src="badge-color.svg" width="180"/></a>
+  <a href="https://ilidam.itch.io"><img src="" width="180"/></a>
 </div>
 
 <hr color="black">
