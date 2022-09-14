@@ -1,5 +1,5 @@
 <div>
-<h1> Hi there, I'm Eric &nbsp <img src="https://giffiles.alphacoders.com/360/36088.gif" width="23"></h1></div>
+<h1> Hi there, I'm Eric &nbsp <img src="PepeMatrix.gif" width="23"></h1></div>
 <img align='right' src="https://cutewallpaper.org/25/animated-gif-matrix-falling-code-wallpaper/matrix-4f8d9-code-6c059-wallpaper-f73e7-gifs-6a9f8-tenor.gif" width="100">
 <br>👨‍💻 I’m currently learning Web and GameDev (Unity, React, Javascript, Typescript, HTML, Javascript, C#)
 <br>📫 How to reach me: ericmarinhoda@gmail.com
