@@ -23,7 +23,7 @@ const eric = {
 <div/>
 
 <div align='center'>
-  <a href="https://ilidam.itch.io"><img src="badge.svg" width="150"/></a>
+  <a href="https://ilidam.itch.io"><img src="badge-color.svg" width="150"/></a>
 </div>
 
 <hr color="black">
