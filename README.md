@@ -29,7 +29,7 @@ const eric = {
 <br>
 <div align='center'>
   <a href="https://ilidam.itch.io"><img src="badge-color.svg" width="180"/></a>
-  <a href="https://https://gamejolt.com/@Ilidam"><img src="gamejolt.png" width="167"/></a>
+  <a href="https://gamejolt.com/@Ilidam"><img src="gamejolt.png" width="167"/></a>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </div>
 
