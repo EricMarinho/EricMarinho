@@ -16,7 +16,7 @@ const eric = {
   pronouns: "he" | "him",
   code: [C#, Typescript, Javascript, HTML, CSS, Python, C, C++, Java, R],
   tools: [Unity, React, Node, Express, Prisma, Bootstrap, Photshop, Miro],
-  services: [Firebase, Netlify, Vercel],
+  services: [Firebase, Netlify, Vercel, LootLocker],
   challenge: "Create a new game demo every week"
 }
 ```
