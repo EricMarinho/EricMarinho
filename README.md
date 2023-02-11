@@ -1,7 +1,7 @@
 <div>
 <h1> Hi there, I'm Eric &nbsp <img src="https://giffiles.alphacoders.com/360/36088.gif" width="23"></h1></div>
 <img align='right' src="PepeMatrixOrange.gif" width="135">
-<br>👨‍💻 I’m currently learning Web and GameDev (Unity, React, Javascript, Typescript, HTML, Javascript, C#)
+<br>👨‍💻 I’m currently learning Web and GameDev (Unity, React, Javascript, CSS, Typescript, HTML, Javascript, C#)
 <br>📫 How to reach me: ericmarinhoda@gmail.com
 <br>
 <br>
@@ -16,7 +16,7 @@ const eric = {
   pronouns: "he" | "him",
   code: [C#, Typescript, Javascript, HTML, CSS, Python, C, C++, Java, R],
   tools: [Unity, React, Node, Express, Prisma, Bootstrap, Photshop, Miro],
-  services: [Firebase, Netlify, Vercel],
+  services: [Firebase, Netlify, Vercel, LootLocker],
   challenge: "Create a new game demo every week"
 }
 ```
@@ -29,9 +29,10 @@ const eric = {
 <br>
 <div align='center'>
   <a href="https://ilidam.itch.io"><img src="badge-color.svg" width="180"/></a>
-  <a href="https://https://gamejolt.com/@Ilidam"><img src="gamejolt.png" width="167"/></a>
 </div>
-
+<div align='center'>
+  <a href="https://gamejolt.com/@Ilidam"><img src="gamejolt.png" width="180"/></a>
+</div>
 <hr color="black">
 
 <p align='center'>
