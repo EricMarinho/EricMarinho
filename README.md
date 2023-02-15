@@ -1,7 +1,7 @@
 <div>
 <h1> Hi there, I'm Eric &nbsp <img src="https://giffiles.alphacoders.com/360/36088.gif" width="23"></h1></div>
 <img align='right' src="Eric by Oginy - Github.png" width="150">
-<br>👨‍💻 I’m currently learning Web and GameDev (Unity, React, Javascript, CSS, Typescript, HTML, Javascript, C#)
+<br>👨‍💻 I’m currently learning GameDev and Web (Unity, C#, React, Javascript, CSS, Typescript, HTML)
 <br>📫 How to reach me: ericmarinhoda@gmail.com
 <br>
 <br>
