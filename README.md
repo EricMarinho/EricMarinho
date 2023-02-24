@@ -33,11 +33,15 @@ const eric = {
 <div align='center'>
   <a href="https://gamejolt.com/@Ilidam"><img src="gamejolt.png" width="180"/></a>
 </div>
-<hr color="black">
+<div align='center'>
+  <a href="https://play.google.com/store/apps/dev?id=7388088919781492539"><img src="playstore.png" width="180"/></a>
+</div>
 
+<hr color="black">
 <p align='center'>
   <img src="github-user-contribution.svg">
 </p>
+
 <br>
 <p align='center'>
   <img align='center' src="https://spotify-now-playing-alpha-one.vercel.app/api/spotify/" alt="Spotify Now Playing" width="350"/>
