@@ -7,7 +7,7 @@
 <br>
 <p>
   <a href="https://www.linkedin.com/in/eric-marinho/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-696982.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://www.instagram.com/ilidamstudios/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/instagram-806982.svg?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.linktr.ee/ilidam"><img alt="Linktree" title="Linktree" src="https://img.shields.io/badge/linktree-82A170.svg?style=for-the-badge&logo=linktree&logoColor=white" style="max-width: 100%;"></a>
 </p>
 <br>
 
