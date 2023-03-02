@@ -24,7 +24,7 @@ const eric = {
  
 <hr>
 <div align='center'>
-  <img src="https://fortnitefontgenerator.com/img.php?fontsize=38&textcolor=ffa657&text=My+Games" width="200"/>
+  <img src="My Games.png" width="200"/>
   &nbsp <img src="Dracoide.gif" width="60">
 <div/>
 <br>
