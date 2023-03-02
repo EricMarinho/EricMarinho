@@ -6,8 +6,9 @@
 <br>
 <br>
 <p>
-  <a href="https://www.linkedin.com/in/eric-marinho/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-696982.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://www.instagram.com/ilidammadz/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/instagram-806982.svg?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/eric-marinho/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-4F608F.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.linktr.ee/ilidam"><img alt="Linktree" title="Linktree" src="https://img.shields.io/badge/linktree-617565.svg?style=for-the-badge&logo=linktree&logoColor=white" style="max-width: 100%;"></a>
+    <a href="https://ilidamstudios.netlify.app/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-5E4C85.svg?style=for-the-badge&logo=netlify&logoColor=white" style="max-width: 100%;"></a>
 </p>
 <br>
 
@@ -33,11 +34,15 @@ const eric = {
 <div align='center'>
   <a href="https://gamejolt.com/@Ilidam"><img src="gamejolt.png" width="180"/></a>
 </div>
-<hr color="black">
+<div align='center'>
+  <a href="https://play.google.com/store/apps/dev?id=7388088919781492539"><img src="playstore.png" width="180"/></a>
+</div>
 
+<hr color="black">
 <p align='center'>
   <img src="github-user-contribution.svg">
 </p>
+
 <br>
 <p align='center'>
   <img align='center' src="https://spotify-now-playing-alpha-one.vercel.app/api/spotify/" alt="Spotify Now Playing" width="350"/>
