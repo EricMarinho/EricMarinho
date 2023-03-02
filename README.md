@@ -24,9 +24,9 @@ const eric = {
  
 <hr>
 <div align='center'>
-  <img src="My Games.png" width="200"/>
-  &nbsp <img src="Dracoide.gif" width="60">
-<div/>
+  <img src="MyGames.png" width="225"/>
+  <img src="Dracoide.gif" width="60">
+</div>
 <br>
 <div align='center'>
   <a href="https://ilidam.itch.io"><img src="badge-color.svg" width="180"/></a>
