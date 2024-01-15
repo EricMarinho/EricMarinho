@@ -35,9 +35,7 @@ const eric = {
 <div align='center'>
   <a href="https://ilidam.itch.io"><img src="badge-color.svg" width="180"/></a>
 </div>
-<div align='center'>
-  <a href="https://gamejolt.com/@Ilidam"><img src="gamejolt.png" width="180"/></a>
-</div>
+
 <div align='center'>
   <a href="https://play.google.com/store/apps/dev?id=7388088919781492539"><img src="playstore.png" width="180"/></a>
 </div>
