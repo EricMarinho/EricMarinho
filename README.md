@@ -11,7 +11,7 @@
 <p>
   <a href="https://www.linkedin.com/in/eric-marinho/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-4F608F.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://www.linktr.ee/ilidam"><img alt="Linktree" title="Linktree" src="https://img.shields.io/badge/linktree-617565.svg?style=for-the-badge&logo=linktree&logoColor=white" style="max-width: 100%;"></a>
-    <a href="https://ilidamstudios.netlify.app/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-5E4C85.svg?style=for-the-badge&logo=netlify&logoColor=white" style="max-width: 100%;"></a>
+    <a href="https://ilidamstudios.com/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-5E4C85.svg?style=for-the-badge&logo=netlify&logoColor=white" style="max-width: 100%;"></a>
 </p>
 <br>
 
